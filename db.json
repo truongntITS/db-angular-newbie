@@ -1,14 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 28,
+    "nationality": "USA"
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "age": 25,
+    "nationality": "UK"
+  },
+  {
+    "id": 3,
+    "name": "Nguyen Van A",
+    "age": 30,
+    "nationality": "Vietnam"
+  },
+  {
+    "id": 4,
+    "name": "Maria Gonzalez",
+    "age": 27,
+    "nationality": "Spain"
+  },
+  {
+    "id": 5,
+    "name": "Lee Min Ho",
+    "age": 35,
+    "nationality": "South Korea"
   }
-}
+]
